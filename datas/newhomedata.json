@@ -1,0 +1,32 @@
+[
+    {
+        "id":"banner7",
+        "src": "./images/banner7.jpg"
+    },
+    {
+        "id":"banner8",
+        "src": "./images/banner8.jpg"
+    },
+    {
+        "id":"banner9",
+        "src": "./images/banner9.jpg"
+    },
+    {
+        "id":"banner10",
+        "src": "./images/banner10.jpg"
+    },
+    {
+        "id":"banner11",
+        "src": "./images/banner11.jpg",
+        "strong": "특별한 만남",
+        "p": "쓰임이 아름다운 물건을 소개하는 GBH와 자연과 예술의 가치를 전하는 엔알세라믹스가 만났습니다. 비대칭적인 실루엣과 심플한 색상으로 테이블 위를 한층 더 매력적이게 만들어줄 거예요."
+    },
+    {
+        "id":"banner12",
+        "src": "./images/banner12.jpg",
+        "strong": "봄나들이를 위한 트위드재킷",
+        "p": "앞으로 다가올 따스한 계절을 위한 트위드재킷을 모았어요. 다양한 스타일의 트위드재킷 중 내 취향의 재킷을 찾을 수 있을 거예요."
+    }
+
+]
+
